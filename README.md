@@ -5,10 +5,8 @@
 ### Sobre Mim
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de uma API RESTful performática usando **FastAPI** e **PostgreSQL**.
-- 🌱 Atualmente estou aprendendo sobre **Ciência de Dados com Pandas** e aprofundando em **computação assíncrona (AsyncIO)**.
 - 👯 Estou procurando colaborar em projetos open source relacionados a **automação**, **bots** ou ferramentas de produtividade (CLI).
 - 🤔 Estou procurando ajuda com a otimização de consultas complexas usando **SQLAlchemy** ou **Django ORM**.
-- 💬 Pergunte-me sobre **desenvolvimento Backend**, **Web Scraping** e criação de scripts de automação.
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Eu adoro resolver quebra-cabeças de lógica e já completei um cubo mágico em menos de um minuto!
 
